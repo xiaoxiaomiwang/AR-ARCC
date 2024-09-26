@@ -1,0 +1,24 @@
+MPIW
+AR_ARCC vs QD+: t-value = -6.749805. p-value = 8.366738552242504e-05)
+AR_ARCC vs QD: t-value = -19.039457. p-value = 1.4008796840155841e-08)
+AR_ARCC vs MC-Dropout-PI: t-value = -11.407743. p-value = 1.1836120802872604e-06)
+PICP
+AR_ARCC vs QD+: t-value = -0.230771. p-value = 0.8226530879603213)
+AR_ARCC vs QD: t-value = -5.056210. p-value = 0.000684550574000363)
+AR_ARCC vs MC-Dropout-PI: t-value = -1.500004. p-value = 0.1678495176602826)
+MSE
+AR_ARCC vs QD+: t-value = -2.765008. p-value = 0.021931789386910382)
+AR_ARCC vs QD: t-value = -7.789053. p-value = 2.738521617731142e-05)
+AR_ARCC vs MC-Dropout-PI: t-value = 0.404692. p-value = 0.6951531459328688)
+MPIW
+AR_ARCC vs QD+: t-value = -8.882378. p-value = 9.506939308986486e-06)
+AR_ARCC vs QD: t-value = -51.120278. p-value = 2.105831575281424e-12)
+AR_ARCC vs MC-Dropout-PI: t-value = -13.839791. p-value = 2.265164422590421e-07)
+PICP
+AR_ARCC vs QD+: t-value = -0.318002. p-value = 0.7577379799377784)
+AR_ARCC vs QD: t-value = -36.000023. p-value = 4.8736010607129265e-11)
+AR_ARCC vs MC-Dropout-PI: t-value = -1.102825. p-value = 0.2987177762317467)
+MSE
+AR_ARCC vs QD+: t-value = 6.062096. p-value = 0.00018769823467086123)
+AR_ARCC vs QD: t-value = 7.012748. p-value = 6.236415591168852e-05)
+AR_ARCC vs MC-Dropout-PI: t-value = 6.148811. p-value = 0.00016896308737007404)
